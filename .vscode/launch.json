@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/mnt/sda3/cpp/chapter03/prog01",
-      "program": "/mnt/sda3/cpp/chapter03/prog01/build/Debug/outDebug",
+      "cwd": "/mnt/sda3/cpp/chapter05/prog01",
+      "program": "/mnt/sda3/cpp/chapter05/prog01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
