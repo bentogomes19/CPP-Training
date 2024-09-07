@@ -1,6 +1,6 @@
 # C++ Training - Fundamentos da Programação
 
-## Chapter03 - Estrutra Sequencial
+## Chapter03 - Estrutura Sequencial
 
 ### Exercícios
 
