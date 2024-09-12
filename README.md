@@ -1,5 +1,7 @@
 # C++ Training - Fundamentos da Programação
 
+- Sistema Operacional: Linux
+- Os enunciados dos exercícios estão no programa .cpp
 ## Chapter03 - Estrutura Sequencial
 
 ### Exercícios
@@ -81,6 +83,19 @@
 
 ## Chapter07 - Matriz
 
+- <a href="/chapter07/prog01/prog01.cpp">Prog01.cpp<a>
+- <a href="/chapter07/prog02/prog02.cpp">Prog02.cpp<a>
+- <a href="/chapter07/prog03/prog03.cpp">Prog03.cpp<a>
+- <a href="/chapter07/prog04/prog04.cpp">Prog04.cpp<a>
+- <a href="/chapter07/prog05/prog05.cpp">Prog05.cpp<a>
+- <a href="/chapter07/prog06/prog06.cpp">Prog06.cpp<a>
+- <a href="/chapter07/prog07/prog07.cpp">Prog07.cpp<a>
+- <a href="/chapter07/prog08/prog08.cpp">Prog08.cpp<a>
+- <a href="/chapter07/prog09/prog09.cpp">Prog09.cpp<a>
+- <a href="/chapter07/prog10/prog10.cpp">Prog10.cpp<a>
+- <a href="/chapter07/prog11/prog11.cpp">Prog11.cpp<a>
+- <a href="/chapter07/prog12/prog12.cpp">Prog12.cpp<a>
+
 ## Chapter08 - Sub-Rotina
 
 ## Chapter09 - Manipulação de Cadeia de Caracteres
@@ -89,7 +104,11 @@
 
 ## Chapter11 - Arquivos
 
-## Chapter12 - Programação Orientada a Objetos (POO)
+## Chapter12 - Programação Orientada à Objetos (POO)
+
+- <a href="/chapter12/prog01/prog01.cpp">Prog01.cpp<a>
+- <a href="/chapter12/prog02/prog02.cpp">Prog02.cpp<a>
+- <a href="/chapter12/prog03/prog03.cpp">Prog03.cpp<a>
 
 ## Chapter13 - Estrutura de Dados 
 
