@@ -93,8 +93,6 @@
 - <a href="/chapter07/prog08/prog08.cpp">Prog08.cpp<a>
 - <a href="/chapter07/prog09/prog09.cpp">Prog09.cpp<a>
 - <a href="/chapter07/prog10/prog10.cpp">Prog10.cpp<a>
-- <a href="/chapter07/prog11/prog11.cpp">Prog11.cpp<a>
-- <a href="/chapter07/prog12/prog12.cpp">Prog12.cpp<a>
 
 ## Chapter08 - Sub-Rotina
 
