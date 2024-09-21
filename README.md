@@ -92,9 +92,15 @@
 - <a href="/chapter07/prog07/prog07.cpp">Prog07.cpp<a>
 - <a href="/chapter07/prog08/prog08.cpp">Prog08.cpp<a>
 - <a href="/chapter07/prog09/prog09.cpp">Prog09.cpp<a>
-- <a href="/chapter07/prog10/prog10.cpp">Prog10.cpp<a>
+- <a href="/chapter07/prog10/prog10.cpp">Prog10.cpp<a>  
 
 ## Chapter08 - Sub-Rotina
+
+- <a href="/chapter08/prog01/prog01.cpp">Prog01.cpp<a>
+- <a href="/chapter08/prog02/prog02.cpp">Prog02.cpp<a>
+- <a href="/chapter08/prog03/prog03.cpp">Prog03.cpp<a>
+- <a href="/chapter08/prog04/prog04.cpp">Prog04.cpp<a>
+- <a href="/chapter08/prog05/prog05.cpp">Prog05.cpp<a>
 
 ## Chapter09 - Manipulação de Cadeia de Caracteres
 
