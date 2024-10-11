@@ -103,6 +103,11 @@
 - <a href="/chapter08/prog05/prog05.cpp">Prog05.cpp<a>
 
 ## Chapter09 - Manipulação de Cadeia de Caracteres
+- <a href="/chapter09/prog01/prog01.cpp">Prog01.cpp<a>
+- <a href="/chapter09/prog02/prog02.cpp">Prog02.cpp<a>
+- <a href="/chapter09/prog03/prog03.cpp">Prog03.cpp<a>
+- <a href="/chapter09/prog04/prog04.cpp">Prog04.cpp<a>
+- <a href="/chapter09/prog05/prog05.cpp">Prog05.cpp<a>
 
 ## Chapter10 - Registros
 
